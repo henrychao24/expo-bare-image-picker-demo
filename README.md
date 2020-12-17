@@ -1,4 +1,6 @@
 # expo-bare-image-picker-demo
+## Environment
+Android 10
 ## Reproduce steps
 1. npm install
 2. npm run android
